@@ -21,7 +21,7 @@
 ## Проекты:
 
 | №| Название  | репозиторий| демо|
-|-----------|-------------------|------------------------------------------------------------------|
+|-----------|----------------------------|-----------------------------------------------------------|-----------------------------------|
 |1|<p align="left"> Погода с интерактивной картой  |<a href="https://github.com/varushchi/weather_app">репозиторий</a>|<a href="https://varushchi.github.io/weather_app/">демо</a>|
 |2|<p align="left"> Киноафиша  |<a href="https://github.com/varushchi/vk-react">репозиторий</a>|<a href="https://varushchi.github.io/vk-react/">демо</a>|
 |3|<p align="left"> Wordle  |<a href="https://github.com/varushchi/wordle">репозиторий</a>|<a href="https://varushchi.github.io/wordle/">демо</a>|
