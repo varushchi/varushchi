@@ -22,11 +22,11 @@
 
 | №| Название  | репозиторий| демо|
 |-----------|----------------------------|-----------------------------------------------------------|-----------------------------------|
-|1|<p align="left"> Погода с интерактивной картой  |<a href="https://github.com/varushchi/weather_app">репозиторий</a>|<a href="https://varushchi.github.io/weather_app/">демо</a>|
-|2|<p align="left"> Киноафиша  |<a href="https://github.com/varushchi/vk-react">репозиторий</a>|<a href="https://varushchi.github.io/vk-react/">демо</a>|
-|3|<p align="left"> Wordle  |<a href="https://github.com/varushchi/wordle">репозиторий</a>|<a href="https://varushchi.github.io/wordle/">демо</a>|
-|4|<p align="left"> Игра арканоид  |<a href="https://github.com/varushchi/white_board">репозиторий</a>|<a href="https://varushchi.github.io/white_board/">демо</a>|
-|5|<p align="left"> Todo список  |<a href="https://github.com/varushchi/todos_mindbox">репозиторий</a>|<a href="https://varushchi.github.io/todos_mindbox/">демо</a>|
+|1|<p align="left"> Wordle  |<a href="https://github.com/varushchi/wordle">репозиторий</a>|<a href="https://varushchi.github.io/wordle/">демо</a>|
+|2|<p align="left"> Погода с интерактивной картой  |<a href="https://github.com/varushchi/weather_app">репозиторий</a>|<a href="https://varushchi.github.io/weather_app/">демо</a>|
+|3|<p align="left"> Киноафиша  |<a href="https://github.com/varushchi/vk-react">репозиторий</a>|<a href="https://varushchi.github.io/vk-react/">демо</a>|
+|4|<p align="left"> Todo список  |<a href="https://github.com/varushchi/todos_mindbox">репозиторий</a>|<a href="https://varushchi.github.io/todos_mindbox/">демо</a>|
+|5|<p align="left"> Игра арканоид  |<a href="https://github.com/varushchi/white_board">репозиторий</a>|<a href="https://varushchi.github.io/white_board/">демо</a>|
 |6|<p align="left"> Поиск по вики  |<a href="https://github.com/varushchi/wiki_search">репозиторий</a>|<a href="https://varushchi.github.io/wiki_search/">демо</a>|
 
 
