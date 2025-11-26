@@ -18,6 +18,15 @@
   <a href='https://www.postgresql.org/' target='_blank'><img src='https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png' title='PostgreSQL' alt = 'PostgreSQL' width="40" height="40"/>&nbsp;</a>
 </div>
 
+## ТЗ:
+
+| №| Название | репозиторий |
+|-----------|----------------------------|-----------------------------------------------------------|
+|1|<p align="left"> API брони мероприятий |<a href="https://github.com/varushchi/reservation-api">репозиторий</a>|
+|2|<p align="left"> Auth API  |<a href="https://github.com/varushchi/effective-mobile">репозиторий</a>|
+|3|<p align="left"> Fullstack сайт со списком книг и авторов  |<a href="https://github.com/varushchi/test-irs">репозиторий</a>|
+|4|<p align="left"> Простое IOS приложение с онбордингом и подпиской |<a href="https://github.com/varushchi/MSTech-Test-Swift">репозиторий</a>|
+
 ## Проекты:
 
 | №| Название  | репозиторий| демо|
@@ -27,7 +36,6 @@
 |3|<p align="left"> Todo список  |<a href="https://github.com/varushchi/todos_mindbox">репозиторий</a>|<a href="https://varushchi.github.io/todos_mindbox/">демо</a>|
 |4|<p align="left"> Поиск по вики  |<a href="https://github.com/varushchi/wiki_search">репозиторий</a>|<a href="https://varushchi.github.io/wiki_search/">демо</a>|
 |5|<p align="left"> Пинтерест котиков с бесконеной лентой  |<a href="https://github.com/varushchi/frontend-challenge">репозиторий</a>|<a href="https://varushchi.github.io/frontend-challenge/">демо</a>|
-
 
 ### :mailbox: Связаться со мной:
 <p><a href="https://t.me/varu_shchi"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png?20220101141644" height=25></a>
